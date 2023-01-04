@@ -6,7 +6,7 @@ You can do these following operations on this app:-
 1. Listen to a song
 2. Watch a Video
 
-#Technologies Used
+# Technologies 
 Kotlin
 Jetpack Navigation
 MVVM Architecture
