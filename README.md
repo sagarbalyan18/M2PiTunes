@@ -7,8 +7,8 @@ You can do these following operations on this app:-
 2. Watch a Video
 
 # Technologies 
-Kotlin
-Jetpack Navigation
-MVVM Architecture
-Data Binding
+Kotlin,
+Jetpack Navigation,
+MVVM Architecture,
+Data Binding,
 Hilt
